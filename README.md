@@ -1,11 +1,6 @@
 # Self
 About Teaa&amp;LynoR
 
-
-![Teaa](https://github.com/interteaa/Self/assets/143201941/bf5f5ccc-0640-4bd5-82ce-ee8d2e01b3c1)
-![LynoR](https://github.com/interteaa/Self/assets/143201941/7f5f56f3-ade3-4573-8233-335a26342ecd)
-
-
 Ciallo~
 这里是Teaa，当然也同样是LynoR
 作为曲作者在Github存在，在这里将上传一些曲目的工程，以及制作心得与积累的经验(制作技巧)
